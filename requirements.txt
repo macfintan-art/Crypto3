@@ -122,7 +122,7 @@ python-amazon-paapi==5.0.1
 python-dateutil==2.9.0.post0
 python-dotenv==1.1.1
 python-json-logger==3.3.0
-python-telegram-bot==20.7
+python-telegram-bot[job-queue]==20.7
 pytz==2025.2
 PyYAML==6.0.1
 pyzmq==26.1.0
